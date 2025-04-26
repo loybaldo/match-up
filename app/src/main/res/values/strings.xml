@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Match Up</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="congrats_message">You\'ve completed the image match.</string>
+    <string name="play">PLAY</string>
+    <string name="about_us">ABOUT US</string>
+</resources>
